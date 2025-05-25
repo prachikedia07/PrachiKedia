@@ -24,7 +24,15 @@
 - Become a skilled developer by graduation!
 
 ---
+## 📊 GitHub Stats
 
-## 📫 Connect with me
-- LinkedIn: [Your_LinkedIn](#)
-- Email: [Your_Email@example.com](#)
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachikedia07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachikedia07&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prachikedia07&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/prachi-kedia-874a50314/)
+- 📧 Email:prachikedia2005 [at] gmail [dot] com
