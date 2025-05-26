@@ -34,5 +34,4 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/prachi-kedia-874a50314/)
-- 📧 Email:prachikedia2005 [at] gmail [dot] com
+- [LinkedIn](https://www.linkedin.com/in/prachi-kedia-874a50314/) 
