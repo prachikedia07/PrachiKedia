@@ -30,7 +30,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachikedia07&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prachikedia07&theme=radical)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prachikedia07&theme=react-dark)
+## 📅 GitHub Contribution Calendar
 
+![Prachi's GitHub Chart](https://ghchart.rshah.org/2ECC71/prachikedia07)
 
 ---
 
